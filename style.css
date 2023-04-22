@@ -12,7 +12,7 @@
 body {
     background: url(bg-pattern-top.svg),url(bg-pattern-bottom.svg) ;
     background-repeat:no-repeat,no-repeat;
-    background-position: -50px -400px,1000px 450px ;
+    background-position: -350px -450px,700px 450px ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -93,6 +93,9 @@ font-weight: 700;
     border-radius: 10px;
     gap: 1rem;
     width: 400px;
+    box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.75);
+    
+
     
     
 
